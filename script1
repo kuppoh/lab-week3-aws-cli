@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# import key command
+aws ec2 import-key-pair --key-name "bcitkey" --public-key-material fileb://~/.ssh/bcitkey.pub
