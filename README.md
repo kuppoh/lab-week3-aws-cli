@@ -10,6 +10,7 @@ Austin Park | Keziah Wacnang
 
 
 **Script 2 Documentation Links:**
+*create-bucket script*
 * https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/create-bucket.html
 
 **Script 3 Documentation Links:**
